@@ -18,7 +18,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn xgboost shap mlxtend
 
 
 ## Dataset
-This project uses a dataset named `data (5).csv`, which is sourced from Kaggle. The dataset is not included in this repository due to its size and Kaggle's usage terms. It contains the following columns:
+This project uses a dataset named `data.csv`, which is sourced from Kaggle. The dataset is not included in this repository due to its size and Kaggle's usage terms. It contains the following columns:
 - `brand`: Product brand (categorical)
 - `color`: Product color (categorical)
 - `size`: Product size (can be numeric or categorical)
